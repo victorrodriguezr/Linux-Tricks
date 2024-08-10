@@ -15,7 +15,7 @@ zsh --version
 chsh -s $(which zsh)
 ```
 
-4. Install Ohmyzhs
+4. Install Ohmyzsh
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
@@ -37,7 +37,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 vi ~/.zshrc
 ```
 
-**Vim**
+**Nano**
 ```bash
 nano ~/.zshrc
 ```
